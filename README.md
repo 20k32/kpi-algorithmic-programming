@@ -2,11 +2,6 @@
 
 Text that is not a quote
 > Text that is a quote.
-> sfsafsfsafsadfsaf
-> sdfsfsadfasdfsadfasdf
-
-| pl2                       | pl1                |
-|---------------------------|--------------------|
-| pl3                       | :heavy_check_mark: |
-| pl3                       | :white_check_mark: |
-| pl3                       | :white_check_mark: |
+> - Add: adds the currency to converter list.
+> - Remove: removes the currency from converter list.
+> Text that is a quote.
